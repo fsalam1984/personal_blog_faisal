@@ -6,7 +6,7 @@ let userTitleSpanBlog = document.querySelector('#user-title_');
 let userContentSpanBlog = document.querySelector('#user-content_'  );
 let myDivs = "";
 // const themeButtonEl = $(`#theme-btn`);
-
+isDark = false;
 themeButtonEl.on("click", ()=>{
     console.log(`Theme was toggled`)
     isDark = !isDark//Toggle theme...
