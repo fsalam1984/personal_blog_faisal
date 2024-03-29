@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/form.css" />
+
+    <title>Blog Form</title>
+  </head>
+
+  <body>
+
+    <div class="theme">
+    
+      <!-- <p>Click to toggle light theme</p> -->
+      <button id="theme-btn" class="btn btn-info">Toggle Theme</button>
+      <div class="card1">
+        <h2>My First Blog</h2>
+        <img src="./assets/blog.jpeg" alt="blog">
+      </div>
+      <div class="card">
+        
+        <h2>What's on your mind?</h2>
+        <form method="POST">
+          <div class="input-group">
+            <label for="username">Username</label>
+            <input type="text" name="username" id="username" placeholder="Username" />
+          </div>
+          <div class="input-group">
+            <label for="title">Title</label>
+            <input type="text" name="title" id="title" placeholder="title here" />
+          </div>
+          <div id="msg"></div>
+          <div class="input-group">
+            <label for="content">Content</label>
+            <input type="text" name="content" id="content" placeholder="Content here" />
+          </div>
+          <div id="msg"></div>
+          <button id="submit">Submit</button>
+        </form>
+      </div>
+      </div>
+
+   
+      <div>
+        <div class="footer">Proudly created by: Faisal Salam<br>
+        <a href="mailto:hege@example.com" class="footer">fsenterprise1@gmail.com</a></div>
+        </div>
+
+ 
+
+   <!-- Added link to the jQuery library -->
+   <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+   <script src="./assets/js/script.js"></script>
+  </body>
+
+
+</html>
