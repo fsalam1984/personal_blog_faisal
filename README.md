@@ -31,5 +31,6 @@ GitHub repo link:
 git@github.com:fsalam1984/personal_blog_faisal.git
 
 Screenshot:
-![Screenshot 2024-03-15 at 5 26 44 PM](https://github.com/fsalam1984/personal_blog_faisal/assets/161408871/0084a01f-7618-45d6-826f-d807bd1cb8ce)
+![Screenshot 2024-03-28 at 9 13 55 PM](https://github.com/fsalam1984/personal_blog_faisal/assets/161408871/99945e4b-fe73-4efb-83cd-031ad1e8ee29)
+
 
